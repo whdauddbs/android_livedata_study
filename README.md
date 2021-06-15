@@ -7,8 +7,13 @@ with Teddy
 3. MVC, MVP, MVVM
 4. Room
 5. 페이징
+
 워크매니저
+
 라이프사이클
+
 코루틴
+
 대거
+
 뷰바인딩
