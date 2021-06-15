@@ -4,7 +4,7 @@ with Teddy
 
 1. [라이브 데이터](./1-livedata/)
 2. [데이터 바인딩](./2-databinding/)
-3. MVC, MVP, MVVM
+3. [MVC, MVP, MVVM](./3-designpattern/)
 4. Room
 5. 페이징
 
